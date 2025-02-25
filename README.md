@@ -1,4 +1,5 @@
 ## Hi there 👋
+Technical project manager with a passion for pragmatic project delivery.   Citizen Development believer who builds strong relationships with business leaders to match technology to business drivers.   Strong technical background from hands on software development, data integration to network implementations are strengths that allow me build trust with IT and business teams.  Management at Program level with C-Suite reporting and business case development and presentations.   Constantly learning to be able to understand the technical challenges various IT teams face, support them by advocating to Senior leadership in IT and other stakeholders to drive projects to successful business outcomes.    Worked in a variety of industries from finance to manufacturing, with a focus on learning business drivers first to align the right IT solutions.
 
 <!--
 **kaz-mouse/kaz-mouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
