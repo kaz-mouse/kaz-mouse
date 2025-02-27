@@ -6,7 +6,7 @@ Project Manager with strong focus matching technology to meet business needs in 
 
 As a results-driven Technical Program Manager, I turn complex IT initiatives into real business impact. With deep expertise in finance and manufacturing, I bridge the gap between technical teams and C-suite leaders—building trust, driving ROI, and leading multi-million dollar programs to success. My strategic leadership and hands-on development background ensure every initiative delivers measurable results.
 
-* 🌍  I'm based in A US citizen for now in Valencia Spain. Returning to the US Q2 2025.
+* 🌍  I am a US citizen for now living in Valencia Spain. Returning to the US Q2 2025.
 * ✉️  You can contact me at [zelinamail@gmail.com](mailto:zelinamail@gmail.com)
 * 🧠  I'm learning Python, Panda, OpenAI, Make, PMP skills focused to make me a more effective PM.
 * 🤝  I'm open to collaborating on AI for Agile, PM, PMO, and CDBA.
