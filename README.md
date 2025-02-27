@@ -11,7 +11,7 @@ As a results-driven Technical Program Manager, I turn complex IT initiatives int
 * 🧠  I have my PMP and am active in PMI.
 * 🧠  Curiosity and coninued learning are a passion - studying Python, Panda, OpenAI, PMP skills, etc. to stay an effective PM.
 * 🤝  I'm open to collaborating on AI for Agile, PM, PMO, and CDBA.
-* ⚡  Side note - I did 4 static line parachute jumps even though I'm afraid of heights. That's how I approach problems and new skills - just dive in and do it! _(Pun intended.)_
+* ⚡  Side note - I did 4 static line parachute jumps even though I'm afraid of heights. That's how I approach problems and new skills - just jump into it and do it! _(Pun intended.)_
 
 
 ### Socials
